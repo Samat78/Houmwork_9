@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\bin\Debug\net7.0\Itog_9.exe
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\bin\Debug\net7.0\Itog_9.deps.json
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\bin\Debug\net7.0\Itog_9.runtimeconfig.json
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\bin\Debug\net7.0\Itog_9.dll
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\bin\Debug\net7.0\Itog_9.pdb
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\obj\Debug\net7.0\Itog_9.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\obj\Debug\net7.0\Itog_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\obj\Debug\net7.0\Itog_9.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\obj\Debug\net7.0\Itog_9.AssemblyInfo.cs
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\obj\Debug\net7.0\Itog_9.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\obj\Debug\net7.0\Itog_9.dll
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\obj\Debug\net7.0\refint\Itog_9.dll
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\obj\Debug\net7.0\Itog_9.pdb
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\obj\Debug\net7.0\Itog_9.genruntimeconfig.cache
+C:\Users\pc\Desktop\Houmwork_9\Itog_9\obj\Debug\net7.0\ref\Itog_9.dll
